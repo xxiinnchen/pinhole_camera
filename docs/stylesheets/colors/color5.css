@@ -1,0 +1,106 @@
+/**
+  * Color
+  * Border Color
+  * Background Color  
+*/
+
+/* Color
+-------------------------------------------------------------- */
+a:hover,
+.flat-iconbox .icon-image span,
+#mainnav > ul > li > a:hover, 
+#mainnav > ul > li.home > a,
+.flat-iconbox .content .title a:hover,
+.title-section .title span,
+.steps-taken .steps-title span,
+.footer-widgets .widget ul li a:hover,
+.bottom .flat-socials li a:hover,
+.flat-socials li a:hover,
+.flat-information span a:hover,
+.flat-teammember.owl-theme .owl-controls .owl-nav div.owl-prev:hover:before, 
+.flat-teammember.owl-theme .owl-controls .owl-nav div.owl-next:hover:before,
+.tp-leftarrow.square:before, 
+.tp-rightarrow.square:before,
+.flat-information > li > a:hover,
+.header-top .top .show-search a:hover,
+.header-top .top .show-search .cart:hover,
+.owl-theme .owl-controls .owl-nav div.owl-prev:hover:before, 
+.owl-theme .owl-controls .owl-nav div.owl-next:hover:before,
+.flat-gallery .gallery-content h5.gallery-title a:hover,
+.flat-gallery .gallery-content .gallery-meta .author a,
+.flat-gallery .gallery-content .gallery-meta span a:hover,
+.flat-socials.style1 li a:hover,
+.flat-iconbox.style5 .content a.read-more:hover,
+.pricing-table-colum:hover .pricing-table-price h1, 
+.pricing-table-colum:hover .pricing-table-price h1 span.currency,
+.pricing-table-colum:hover .pricing-table-header h6.weight-bold,
+.services-carousel-testimonial .testimonifal-item .content:before,
+ul.list-content.style1 li i,
+.flat-information-box .icon i,
+.title-section .icon span,
+.flat-portfolio .portfolio-filter > li.active a,
+.flat-portfolio .portfolio-filter > li a:hover,
+.blog-pagination.pagination-portfolio .flat-pagination li a:hover,
+.wrap-blog-fullwidth .entry .entry-title a:hover,
+.post .title-post a:hover,
+.blog-post.style1 .post .meta-post .author a,
+.widg-featured-post .item a:hover,
+.blog-post.style3 .post .meta-post .author a,
+.blog-post.style3 .post .meta-post span a:hover,
+.blog-pagination .flat-pagination li.prev a:hover i, 
+.blog-pagination .flat-pagination li.next a:hover i,
+.blog-post.style4 .post .main-post a.read-more:hover,
+.widget.widget-recent-post.style1 ul li .text a:hover,
+.blog-single .post-wrap .post blockquote .blockqoute-text:before,
+.blog-single .comment-post .comment .comment-detail .comment-meta a.comment-reply,
+.switcher-container h2 i,
+.switcher-container h2,
+.header-top .header.is-sticky #mainnav > ul > li > a:hover {
+	color: #3498db;
+}
+
+/* Border Color
+-------------------------------------------------------------- */
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.sw-even a:hover {
+	border-color: #3498db ;
+}
+
+/* Background Color
+-------------------------------------------------------------- */
+.steps-taken.v1:before,
+.steps-img:before,
+.steps-taken.v2:before,
+.go-top,
+.flat-button.bg-themes,
+.widget-mailchimb button:hover,
+.flat-iconbox-fullwidth.style1.owl-theme .owl-controls .owl-nav div:hover,
+.tp-leftarrow.square:hover,
+.tp-rightarrow.square:hover,
+.background-color-themes,
+.pricing-table-colum:hover .pricing-table-footer .flat-button.bg-black,
+.flat-iconbox.style2 h5.number,
+.services-detail-sidebar .services-contact,
+button, input[type="button"], 
+input[type="reset"], input[type="submit"],
+.sidebar .widget .widget-title:before,
+.sw-even a:hover,
+.btn-menu:before, 
+.btn-menu:after, 
+.btn-menu span {
+	background-color: #3498db;
+}
